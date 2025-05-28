@@ -5,7 +5,7 @@ This project implements a **finite state machine (FSM)** for a digital vending m
 
 >  **Project Date**: March 2025  
 >  **Course**: ECEN 474 – Digital System Design  
->  **Author**: Gael Oswaldo Perez Alvarez  
+>  **Author**: Gael  Perez   
 
 ---
 
