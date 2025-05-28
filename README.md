@@ -1,4 +1,4 @@
-# Simple-Vending-Machine-FPGA-logic-FSM
+# 🖥️ Simple-Vending-Machine-FPGA-logic-FSM
 # VHDL Vending Machine FSM
 
 This project implements a **finite state machine (FSM)** for a digital vending machine using **VHDL**. The vending machine accepts coins—nickels (5¢), dimes (10¢), and quarters (25¢)—and processes purchases once at least 20¢ has been inserted. If 25¢ is inserted, the system returns 5¢ as change.
@@ -56,5 +56,5 @@ FSM Design Techniques
 VHDL Coin Vending FSM Example
 
 
-Let me know if you'd like this bundled into a downloadable file or want me to help build the GitHub repo structure locally or online.
+🤝 Let me know if you'd like this bundled into a downloadable file or want me to help build the GitHub repo structure locally or online.
 
