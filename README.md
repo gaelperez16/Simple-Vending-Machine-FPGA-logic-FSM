@@ -3,7 +3,7 @@
 
 This project implements a **finite state machine (FSM)** for a digital vending machine using **VHDL**. The vending machine accepts coins—nickels (5¢), dimes (10¢), and quarters (25¢)—and processes purchases once at least 20¢ has been inserted. If 25¢ is inserted, the system returns 5¢ as change.
 
->  **Project Date**: May 2025  
+>  **Project Date**: March 2025  
 >  **Course**: ECEN 474 – Digital System Design  
 >  **Author**: Gael Oswaldo Perez Alvarez  
 
